@@ -1,0 +1,62 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractedTable&Sequence_1",
+        "pwd&Sequence_1",
+        "dueDate&Sequence_1",
+        "datex&Sequence_2",
+        "dueDiff&Sequence_2",
+        "k_pwd&Sequence_2",
+        "pwd&Sequence_3",
+        "dueDate&Sequence_3",
+        "passwd&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "sample.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "variable1&Sequence_14",
+        "ExtractedTable&Sequence_13",
+        "pwd&Sequence_13",
+        "dueDate&Sequence_13",
+        "datex&Sequence_14",
+        "dueDiff&Sequence_14",
+        "k_pwd&Sequence_14"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EMI Due/Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractedTable&Sequence_1",
+        "pwd&Sequence_1",
+        "dueDate&Sequence_1",
+        "datex&Sequence_2",
+        "dueDiff&Sequence_2",
+        "pwd&Sequence_3",
+        "dueDate&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
